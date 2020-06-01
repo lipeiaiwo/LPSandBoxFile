@@ -1,6 +1,6 @@
 # LPSandBoxFile
-沙盒浏览  
-    支持的功能:  
+##沙盒浏览  
+###支持的功能:  
     1.支持图片点击查看,视频播放.  
     2.支持常用office格式文件.  
     3.支持使用AirDrop把文件发送出来.  
@@ -21,4 +21,4 @@ AirDrop传输
   
 WiFi互传开启后 可以使用电脑浏览器访问  
 <img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/5.PNG" width="300" height="537" />  
-<img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/6.jpg" width="1500" height="624" />  
+<img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/6.jpg" width="1500" height="500" />  
