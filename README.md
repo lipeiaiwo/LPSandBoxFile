@@ -9,7 +9,7 @@
 一行代码调用
     [LPSandBoxFile pushSandBoxFileWithVC:self];
     [LPSandBoxFile presentSandBoxFileWithVC:self];
-    <img scr="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/0.jpg" width="375"/>
+    <img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/0.jpg" width="300" height="450" />
 ![Image text](https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/0.jpg)
 
 沙盒浏览
