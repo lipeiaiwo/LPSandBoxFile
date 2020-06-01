@@ -12,13 +12,13 @@
     <img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/0.jpg" width="800" height="466" />  
   
 沙盒浏览  
-<img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/1.PNG" width="300" height="537" />
-<img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/2.PNG" width="300" height="537" />
-<img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/3.PNG" width="300" height="537" />
+<img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/1.PNG" width="280" height="498" />
+<img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/2.PNG" width="280" height="498" />
+<img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/3.PNG" width="280" height="498" />
   
 AirDrop传输  
 <img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/4.PNG" width="300" height="537" />  
   
 WiFi互传开启后 可以使用电脑浏览器访问  
 <img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/5.PNG" width="300" height="537" />  
-<img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/6.jpg" width="2000" height="832" />  
+<img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/6.jpg" width="1500" height="624" />  
