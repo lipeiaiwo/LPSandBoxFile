@@ -7,9 +7,9 @@
 ### 4.支持连接WiFi用电脑浏览器浏览沙盒文件支持互相传输.    
   
 ### 一行代码调用  
-    [LPSandBoxFile pushSandBoxFileWithVC:self];  
-    [LPSandBoxFile presentSandBoxFileWithVC:self];  
-    <img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/0.jpg" width="800" height="466" />  
+[LPSandBoxFile pushSandBoxFileWithVC:self];  
+[LPSandBoxFile presentSandBoxFileWithVC:self];  
+<img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/0.jpg" width="800" height="466" />  
   
 ### 沙盒浏览  
 <img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/1.PNG" width="280" height="498" />
