@@ -1,14 +1,15 @@
 # LPSandBoxFile
 沙盒浏览
-  支持的功能:
-  1.支持图片点击查看,视频播放.
-  2.支持常用office格式文件.
-  3.支持使用AirDrop把文件发送出来.
-  4.支持连接WiFi用电脑浏览器浏览沙盒文件支持互相传输.
+    支持的功能:
+    1.支持图片点击查看,视频播放.
+    2.支持常用office格式文件.
+    3.支持使用AirDrop把文件发送出来.
+    4.支持连接WiFi用电脑浏览器浏览沙盒文件支持互相传输.
 
 一行代码调用
-  [LPSandBoxFile pushSandBoxFileWithVC:self];
-  [LPSandBoxFile presentSandBoxFileWithVC:self];
+    [LPSandBoxFile pushSandBoxFileWithVC:self];
+    [LPSandBoxFile presentSandBoxFileWithVC:self];
+    <img scr="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/0.jpg" width="375"/>
 ![Image text](https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/0.jpg)
 
 沙盒浏览
