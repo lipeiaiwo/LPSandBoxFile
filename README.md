@@ -9,17 +9,16 @@
 一行代码调用
     [LPSandBoxFile pushSandBoxFileWithVC:self];
     [LPSandBoxFile presentSandBoxFileWithVC:self];
-    <img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/0.jpg" width="300" height="450" />
-![Image text](https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/0.jpg)
+    <img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/0.jpg" width="800" height="466" />
 
 沙盒浏览
-![Image text](https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/1.PNG)
-![Image text](https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/2.PNG)
-![Image text](https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/3.PNG)
+<img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/1.PNG" width="300" height="537" />
+<img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/2.PNG" width="300" height="537" />
+<img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/3.PNG" width="300" height="537" />
 
 AirDrop传输
-![Image text](https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/4.PNG)
+<img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/4.PNG" width="300" height="537" />
 
 WiFi互传开启后 可以使用电脑浏览器访问
-![Image text](https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/5.PNG)
-![Image text](https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/6.jpg)
+<img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/5.PNG" width="300" height="537" />
+<img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/6.jpg" width="2000" height="832" />
