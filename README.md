@@ -6,19 +6,19 @@
 ### 3.支持使用AirDrop把文件发送出来.  
 ### 4.支持连接WiFi用电脑浏览器浏览沙盒文件支持互相传输.    
   
-### 一行代码调用  
+## 一行代码调用  
 [LPSandBoxFile pushSandBoxFileWithVC:self];  
 [LPSandBoxFile presentSandBoxFileWithVC:self];  
 <img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/0.jpg" width="800" height="466" />  
   
-### 沙盒浏览  
+## 沙盒浏览  
 <img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/1.PNG" width="280" height="498" />
 <img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/2.PNG" width="280" height="498" />
 <img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/3.PNG" width="280" height="498" />
   
-### AirDrop传输  
+## AirDrop传输  
 <img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/4.PNG" width="300" height="537" />  
   
-### WiFi互传开启后 可以使用电脑浏览器访问  
+## WiFi互传开启后 可以使用电脑浏览器访问  
 <img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/5.PNG" width="300" height="537" />  
 <img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/6.jpg" width="1500" height="400" />  
