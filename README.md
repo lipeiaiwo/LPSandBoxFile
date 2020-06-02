@@ -12,9 +12,7 @@
 <img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/0.jpg" width="600" height="350" />  
   
 ## 沙盒浏览  
-<img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/1.PNG" width="220" height="391" />
-<img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/2.PNG" width="220" height="391" />
-<img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/3.PNG" width="220" height="391" />
+<img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/1.PNG" width="220" height="391" /><img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/2.PNG" width="220" height="391" /><img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/3.PNG" width="220" height="391" />
   
 ## AirDrop传输  
 <img src="https://github.com/lipeiaiwo/LPSandBoxFile/blob/master/image/4.PNG" width="220" height="391" />  
